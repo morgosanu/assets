@@ -1,0 +1,14 @@
+{
+  "name": "Drovo Token",
+  "symbol": "DROVO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbc8B28b9fa7d35c7f1DE914aD4f683c627bdC54f",
+  "website": "https://drovotoken.com",
+  "description": "Drovo Token is a utility token used for e-commerce payments, staking and governance in the Drovo ecosystem.",
+  "links": {
+    "website": "https://drovotoken.com",
+    "twitter": "https://x.com/DrovoToken",
+    "telegram": "https://t.me/drovotoken"
+  }
+}
